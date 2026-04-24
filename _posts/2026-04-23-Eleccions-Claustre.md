@@ -77,5 +77,5 @@ Les nostres principals propostes de treball són:
 
 Salut\!
 
-Universitat Roja i Negra
+Universitat Roja i Negra  
 https://universitat-roja-negra.github.io/portada/2026/04/23/Eleccions-Claustre.html
