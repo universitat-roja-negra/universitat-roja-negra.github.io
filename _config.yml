@@ -34,6 +34,7 @@ plugins:
 
 header_pages:
   - blog.html
+  - cartels.md
   - quisom.md
 #  - recursos.md
 #  - contacte.md
