@@ -12,7 +12,7 @@ Colleagues,
 [_English version_](https://cgt-upc.github.io/activitats/2026/04/22/Claustre-Elections.html)
 -->
 
-[_Versió en Català_](https://universitat-roja-negra/portada/2026/04/23/Eleccions-Claustre.html)  
+[_Versió en Català_](https://universitat-roja-negra.github.io/portada/2026/04/23/Eleccions-Claustre.html)  
 
 From 10:00, Monday 27 to 9:59, Thursday 30 of April, you can Vote at UPC university council elections
 
