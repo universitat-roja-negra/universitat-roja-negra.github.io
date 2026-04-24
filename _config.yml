@@ -36,7 +36,7 @@ header_pages:
   - blog.html
   - quisom.md
   - recursos.md
-  - contacte.md
+#  - contacte.md
 
 minima:
   date_format: "%-d/%m/%Y"
