@@ -35,7 +35,7 @@ plugins:
 header_pages:
   - blog.html
   - quisom.md
-  - recursos.md
+#  - recursos.md
 #  - contacte.md
 
 minima:
