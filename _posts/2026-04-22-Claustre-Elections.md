@@ -12,7 +12,7 @@ Colleagues,
 [_English version_](https://cgt-upc.github.io/activitats/2026/04/22/Claustre-Elections.html)
 -->
 
-[_Versió en Català_](https://cgt-upc.github.io/portada/2026/04/23/Eleccions-Claustre.html)  
+[_Versió en Català_](https://universitat-roja-negra/portada/2026/04/23/Eleccions-Claustre.html)  
 
 From 10:00, Monday 27 to 9:59, Thursday 30 of April, you can Vote at UPC university council elections
 
@@ -30,21 +30,27 @@ We have organised multiple protest actions:
 
 We have given visibility to precariousness, avoided firings, demanded the fourth year for protectorate contracts, worked for the salary increase of associates with higher pay, pressed the Board of Universities to negotiate work and salary conditions of the most precarious group in catalan universities, that being substitute professors, and worked for pre- and postdocs to have continuity inside UPC.
 
-In 2023 we have summoned strikes against precariousness: 
+In 2023 we have summoned strikes against precariousness.
 
+<!--
 [https://cgt-upc.github.io/portada/2023/04/19/Comunicat-Vaga-20-26.html](https://cgt-upc.github.io/portada/2023/04/19/Comunicat-Vaga-20-26.html)  
 [https://cgt-upc.github.io/portada/2023/03/16/Vaga-22M.html](https://cgt-upc.github.io/portada/2023/03/16/Vaga-22M.html)
+-->
 
-Every year: feminist strike:
+Every year: feminist strike.
 
+<!--
 [https://cgt-upc.github.io/portada/2024/03/07/8MFeminista.html](https://cgt-upc.github.io/portada/2024/03/07/8MFeminista.html)  
 [https://cgt-upc.github.io/portada/2026/03/06/Vaga-8M.html](https://cgt-upc.github.io/portada/2026/03/06/Vaga-8M.html)
+-->
 
-We have been present at all organised actions for UPC to break ties with the Israeli state and make UPC an institution and community compromised against genocides and fascism. From 2023 until now we have worked against Genocide:
+We have been present at all organised actions for UPC to break ties with the Israeli state and make UPC an institution and community compromised against genocides and fascism. From 2023 until now we have worked against Genocide.
 
+<!--
 [https://cgt-upc.github.io/portada/2023/10/19/Palestina.html](https://cgt-upc.github.io/portada/2023/10/19/Palestina.html) …  
 [https://cgt-upc.github.io/portada/2024/09/22/Vaga-27S.htm](https://cgt-upc.github.io/portada/2024/09/22/Vaga-27S.html) …  
 [https://www.cgtensenyament.cat/fem-fora-israel-dels-horizon-europe/](https://www.cgtensenyament.cat/fem-fora-israel-dels-horizon-europe/)
+-->
 
 Our main work proposal are:
 
@@ -70,4 +76,4 @@ Our main work proposal are:
 Salut\!
 
 Universitat Roja i Negra
-https://cgt-upc.github.io/portada/2026/04/23/Eleccions-Claustre.html
+https://universitat-roja-negra.github.io/portada/2026/04/23/Eleccions-Claustre.html

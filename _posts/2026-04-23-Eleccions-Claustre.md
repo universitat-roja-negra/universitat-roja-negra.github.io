@@ -13,7 +13,7 @@ Companyes, companys,
 [_English version_](https://cgt-upc.github.io/activitats/2026/04/22/Claustre-Elections.html)
 -->
 
-[_English version_](https://cgt-upc.github.io/activitats/2026/04/22/Claustre-Elections.html)
+[_English version_](https://universitat-roja-negra.github.io/activitats/2026/04/22/Claustre-Elections.html)
 
 **Des del dilluns 27 a les 10:00 fins al dijous 30 d'abril a les 09:59 hores** es pot **Votar** a les eleccions al **Claustre Universitari de la UPC**
 
@@ -31,21 +31,27 @@ Hem organitzat múltiples accions de protesta:
 
 Hem donat visibilitat a la precarietat, hem evitat acomiadaments, hem reclamat el quart any pels contractes predoctorals, hem treballat per l’augment salarial dels associats i amb unes remuneracions més elevades, hem pressionat la Mesa d’Universitats per tal que es negociïn les condicions laborals i salarials del col·lectiu més precaritzat actualment a les universitats catalanes, com és el del professorat substitut, hem treballat perquè les figures predoctorals i postdoctorals tinguin continuïtat a la UPC.
 
-Durant el 2023 hem convocat diverses vagues contra la precarietat: 
+Durant el 2023 hem convocat diverses vagues contra la precarietat.
 
+<!--
 [https://cgt-upc.github.io/portada/2023/04/19/Comunicat-Vaga-20-26.html](https://cgt-upc.github.io/portada/2023/04/19/Comunicat-Vaga-20-26.html)  
 [https://cgt-upc.github.io/portada/2023/03/16/Vaga-22M.html](https://cgt-upc.github.io/portada/2023/03/16/Vaga-22M.html)
+-->
 
-Cada any: Vaga Feminista
+Cada any: Vaga Feminista.
 
+<!--
 [https://cgt-upc.github.io/portada/2024/03/07/8MFeminista.html](https://cgt-upc.github.io/portada/2024/03/07/8MFeminista.html)  
 [https://cgt-upc.github.io/portada/2026/03/06/Vaga-8M.html](https://cgt-upc.github.io/portada/2026/03/06/Vaga-8M.html)
+-->
 
-Hem estat presents a totes les accions organitzades perquè la UPC trenqui relacions amb l’Estat d’Israel i per fer de la UPC una institució i comunitat universitària compromesa contra els genocidis i el feixisme. Des del 2023 i fins ara hem lluitat contra el Genocidi:
+Hem estat presents a totes les accions organitzades perquè la UPC trenqui relacions amb l’Estat d’Israel i per fer de la UPC una institució i comunitat universitària compromesa contra els genocidis i el feixisme. Des del 2023 i fins ara hem lluitat contra el Genocidi.
 
+<!--
 [https://cgt-upc.github.io/portada/2023/10/19/Palestina.html](https://cgt-upc.github.io/portada/2023/10/19/Palestina.html) …  
 [https://cgt-upc.github.io/portada/2024/09/22/Vaga-27S.htm](https://cgt-upc.github.io/portada/2024/09/22/Vaga-27S.html) …  
 [https://www.cgtensenyament.cat/fem-fora-israel-dels-horizon-europe/](https://www.cgtensenyament.cat/fem-fora-israel-dels-horizon-europe/)
+-->
 
 Les nostres principals propostes de treball són:
 
@@ -72,4 +78,4 @@ Les nostres principals propostes de treball són:
 Salut\!
 
 Universitat Roja i Negra
-https://cgt-upc.github.io/portada/2026/04/23/Eleccions-Claustre.html
+https://universitat-roja-negra.github.io/portada/2026/04/23/Eleccions-Claustre.html
