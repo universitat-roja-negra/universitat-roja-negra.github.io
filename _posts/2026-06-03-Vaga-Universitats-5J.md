@@ -15,6 +15,8 @@ A més, aquesta situació es tradueix en unes ràtios de personal PTGAS per alum
 
 Vine a la **Manifestació el 5 de Juny** a les **12 Hores** a **Plaça Universitat**
 
+[Vaga CGT/UPC](https://cgt-upc.github.io/portada/2026/06/03/Vaga-Universitats-5J)
+
 ![Cartel VAGA Universitats/Ensenyament 5J](/assets/img/Vaga-Universitats-Catalunya-5juny2026.jpg)
 
 [CGT-UPC](https://cgt-upc.github.io/)
