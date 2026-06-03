@@ -23,6 +23,8 @@ Ens presentem al Claustre dins el **sector PA-B2** amb la candidatura: "**Univer
 
 El model universitari se sustenta sobre l’explotació i la precarietat. Es tracta del desmantellament d’un servei públic sota el model neoliberal. A això hem de sumar un caràcter jeràrquic de la institució. Ens oposem frontalment. Volem una universitat popular, democràtica, feminista, amb treballs dignes.
 
+<!--more-->
+
 Ens presentem a aquestes eleccions, per contribuir a bloquejar les polítiques universitàries neoliberals, protegir els col·lectius més precaris i exigir el compliment de les seves reivindicacions. Per fer de la UPC i les universitats públiques catalanes espais democràtics, crítics, emancipadors, amb la vida i les cures al centre, polititzats, antifeixistes, compromesos davant els genocidis i les vulneracions dels drets humans i coherents amb el respecte pel medi ambient i la sostenibilitat. Evidentment, també volem incidir en els òrgans de representació: el Consell de Govern, la Mesa del Claustre, i totes les comissions que les integren.  
 El nostre objectiu és defensar una universitat pública on el coneixement no estigui mercantilitzat sinó condicionat a les necessitats socials i col·lectives, i lluitar contra la precarització laboral del professorat universitari tot impugnant i plantejant alternatives al model neoliberal actual.  
 Sabem que es necessita articulació, mobilització i incidència política àmplia, dins i fora dels òrgans de representació. És per això que durant aquests anys no hem deixat de convocar assemblees, vagues i accions, així com de formar grups de treball o fer campanyes concretes.

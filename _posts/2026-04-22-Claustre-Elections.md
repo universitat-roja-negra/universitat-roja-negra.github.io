@@ -22,6 +22,8 @@ Why are we running?
 
 The University model is sustained by exploitation and insecurity. It is a dismantlement of the public service under the neoliberal model. On top of that we have to add the hierarchical nature of the institution. We oppose this bluntly. We want a university that is popular, feminist and with decent work.
 
+<!--more-->
+
 We are running in this election to contribute to block neoliberal university policies, protect the most precarious groups and call for the fulfillment of their demands. To make UPC and catalan public universities spaces that are democratic, critical, emancipatory, with life and care in site, politicised, anti-fascist, compromised against genocides and human rights violations and coherent with environmental protection and sustainability. Evidently we also want to influence the representation bodies: Governing Council, University Senate and all the other commissions that form it.  
 Our objective is to defend a public university where knowledge is not commodified, but instead responds to social and public necessities, as well as fighting against work uncertainty of all faculty challenging the present neoliberal model.  
 We know that we need assembling, mobilization and wide political incidence inside and outside representation bodies. That is why we never stopped summoning assemblies, strikes and actions in addition to creating work groups or making concrete campaigns.
