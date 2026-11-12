@@ -17,6 +17,8 @@ Vine a la **Manifestació el 5 de Juny** a les **12 Hores** a **Plaça Universit
 
 [Vaga CGT/UPC](https://cgt-upc.github.io/portada/2026/06/03/Vaga-Universitats-5J)
 
+<!--more-->
+
 ![Cartel VAGA Universitats/Ensenyament 5J](/assets/img/Vaga-Universitats-Catalunya-5juny2026.jpg)
 
 [CGT-UPC](https://cgt-upc.github.io/)
