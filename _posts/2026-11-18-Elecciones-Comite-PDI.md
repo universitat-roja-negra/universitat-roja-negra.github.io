@@ -31,7 +31,7 @@ salarials a la lluita pel dret a l'habitatge digne i defensem un feminisme de cl
 
 <span style="color: #8B0000;">***Vota la candidatura de la CGT!***</span>
 
-<a href="/assets/doc/PROGRAMA.CAS.pdf">PROGRAMA</a>
+<a href="/assets/docs/PROGRAMA.CAS.pdf">PROGRAMA</a>
 
 Salut\!
 
