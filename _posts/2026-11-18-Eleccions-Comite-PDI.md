@@ -2,7 +2,7 @@
 layout: post
 title: Eleccions Comitè Empresa
 author: Francisco
-categories: activitats
+categories: portada
 ---
 
 <span style="color: #8B0000;">**Eleccions al Comitè d'Empresa del PDI Laboral UPC (2026)**</span>
@@ -33,7 +33,7 @@ salarials a la lluita pel dret a l'habitatge digne i defensem un feminisme de cl
 
 Salut\!
 
-CGT/UPC. Per uns Universitat Roja/Negra.!
+CGT/UPC. Per una Universitat Roja/Negra.!
 
 [_Català_](https://universitat-roja-negra.github.io/portada/2026/11/18/Eleccions-Comite-PDI.html)
 [_Castellano_](https://universitat-roja-negra.github.io/activitats/2026/11/18/Elecciones-Comite-PDI.html)

@@ -1,65 +1,38 @@
 ---
 layout: post
-title: Eleccions Comitè Empresa
+title: Works Council Elections
 author: Francisco
-categories: portada
+categories: activitats
 ---
 
-<span style="color: #8B0000;">**Eleccions al Comitè d'Empresa del PDI Laboral UPC (2026)**</span>
+<span style="color: #8B0000;">**UPC Labor PDI Works Council Elections (2026)**</span>
 
-<span style="color: #8B0000;">**_— Per una universitat per a la classe treballadora!_**</span>
+<span style="color: #8B0000;">**_— For a university for the working class!_**</span>
 
-*Companyes!*
+*Colleagues!*
 
-Des de la <span style="color: #8B0000;">**secció sindical de la CGT a la UPC**</span> ens
-presentem a les <span style="color: #8B0000;">**eleccions al Comitè d'Empresa del PDI Laboral**</span> per
-transformar les regles del joc des de baix, lluny del sindicalisme
-pactista i burocràtic.
+The <span style="color: #8B0000;">**CGT union branch at UPC **</span> ens
+is running in the <span style="color: #8B0000;">**Labor PDI Works Council elections**</span> to transform the rules of the game from the bottom up, far from bureaucratic and compromise-oriented unionism.
 
-Us adjuntem el nostre <span style="color: #8B0000;">**programa electoral**</span>, que es
-resumeix en tres eixos clau:
+Please find attached our <span style="color: #8B0000;">**programa electoral**</span>, summarized in three core pillars:
 
-<span style="color: #8B0000;">★</span> <span style="color: #8B0000;">**Un sindicalisme de classe, assembleari i combatiu**</span>,
- amb l'assemblea de treballadores com a màxim òrgan de
-decisió. Prioritzem l'acció directa, la transparència absoluta,
-les denúncies a Inspecció de Treball i la vaga enfront dels
-despatxos tancats.
+<span style="color: #8B0000;">★</span> <span style="color: #8B0000;">**Class-conscious, assembly-based, and combative unionism**</span>, Workers' assemblies as the ultimate decision-making body. We prioritize direct action, full transparency, complaints to the Labor Inspectorate, and strikes over closed-door bargaining.
 
-<span style="color: #8B0000;">★</span> <span style="color: #8B0000;">**Prou precarietat per a tot el PDI:**</span> exigim la
-regularització immediata de les associades estructurals i la fi
-dels sous ínfims (8-12,5 €/h reals) per a associades i
-substitutes; l'aplicació íntegra de l'EPIF per a les predocs (4t
-any garantit i límits docents); sou predoc fregant l'SMI;
-l'estabilització sense avaluacions punitives i la reducció de la
-càrrega docent per a les lectores; la rebaixa de càrrega per a les
-agregades, reconeixent tot el treball invisible i garantint un
-finançament estructural digne per a la recerca (1% del PIB en
-Universitats, 5% del pressupost de fons propis UPC en recerca,
-LOSU art. 57.7, i actualització de dietes).
+<span style="color: #8B0000;">★</span> <span style="color: #8B0000;">**No more precariousness for all PDI:**</span> immediate regularisation of structural associate professors and maximum wage parity; dignified conditions for substitute teachers (no more cheap labor); full implementation of the EPIF statute for predocs (guaranteed 4th year and teaching limits); and stabilization without punitive evaluations for assistant professors (lectoras).
 
-<span style="color: #8B0000;">★</span> <span style="color: #8B0000;">**Condicions de vida dignes:**</span> davant d'una pèrdua del 20% de poder
-adquisitiu des del 2010 i l'escalada desbocada del lloguer,
-vinculem les nostres reivindicacions salarials (prou pujades
-capades per sota de l'IPC real) a la lluita pel dret a
-l'habitatge digne. El pacte entre govern i alguns sindicats (11%
-de pujada repartida en 5 anys) ja és absolutament insuficient
-abans d'acabar de ser implantat.
+<span style="color: #8B0000;">★</span> <span style="color: #8B0000;">**Decent living conditions:**</span> Faced with a 20% loss in purchasing power since 2010 and the runaway surge in rents, we are linking our wage demands—rejecting pay increases that fall short of the actual CPI—to the struggle for the right to decent housing. The agreement reached between the government and certain trade unions (an 11% raise spread over five years) is already completely inadequate, even before its full implementation.
 
 ![Bretxa salarial](/assets/img/Bretxa.png)
 
-<span style="color: #8B0000;">**Rebentem la bombolla universitària:**</span> exigim el
-trencament de tot acord de la UPC amb l'Estat d'Israel contra el
-genocidi a Palestina, vinculem les nostres reivindicacions
-salarials a la lluita pel dret a l'habitatge digne i defensem un
-feminisme de classe contra l'assetjament i els abusos de poder.
+<span style="color: #8B0000;">**Bursting the university bubble:**</span> we demand UPC sever all institutional, academic, and business ties with the State of Israel against the genocide in Palestine, link our wage demands to the struggle for decent housing, and champion class-conscious feminism against harassment and abuses of power.
 
-<span style="color: #8B0000;">***No ens presentem per gestionar la nostra misèria, sinó per organitzar-nos i lluitar!***</span>
+<span style="color: #8B0000;">***NWe are not here to manage our misery, but to organize and fight!***</span>
 
-<span style="color: #8B0000;">***Vota la candidatura de la CGT!***</span>
+<span style="color: #8B0000;">***Vote for the CGT candidacy!***</span>
 
 Salut\!
 
-CGT/UPC. Per uns Universitat Roja/Negra.!
+CGT/UPC. Per una Universitat Roja/Negra.!
 
 [_Català_](https://universitat-roja-negra.github.io/portada/2026/11/18/Eleccions-Comite-PDI.html)
 [_Castellano_](https://universitat-roja-negra.github.io/activitats/2026/11/18/Elecciones-Comite-PDI.html)
