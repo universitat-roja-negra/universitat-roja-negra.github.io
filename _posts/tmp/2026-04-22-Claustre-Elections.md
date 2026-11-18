@@ -2,7 +2,7 @@
 layout: post
 title: Claustre Elections 2026
 author: Francisco
-categories: activitats
+categories: none
 ---
 
 Colleagues,

@@ -2,7 +2,7 @@
 layout: post
 title: Eleccions Claustre 2026
 author: Francisco
-categories: portada
+categories: none
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  Vaga Universitats 5J
 author: Francisco
-categories: portada
+categories: none
 ---
 
 La CGT de les Universitats públiques catalanes hem acordat convocar **Vaga el 5 de juny**, coincidint amb les aturades i mobilitzacions als centres de primària, secundària i FPs. Com aquests i els altres serveis públics, les Universitats catalanes es troben infrafinançades.
