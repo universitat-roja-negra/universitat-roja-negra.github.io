@@ -30,10 +30,12 @@ Please find attached our <span style="color: #8B0000;">**programa electoral**</s
 
 <span style="color: #8B0000;">***Vote for the CGT candidacy!***</span>
 
+<a href="/assets/doc/PROGRAMA.EN.pdf">PROGRAM</a>
+
 Salut\!
 
 CGT/UPC. Per una Universitat Roja/Negra.!
 
-[_Català_](https://universitat-roja-negra.github.io/portada/2026/11/18/Eleccions-Comite-PDI.html)
-[_Castellano_](https://universitat-roja-negra.github.io/activitats/2026/11/18/Elecciones-Comite-PDI.html)
-[_English_](https://universitat-roja-negra.github.io/activitats/2026/11/18/Elections-PDI.html)
+[_Català_](/portada/2026/11/18/Eleccions-Comite-PDI.html)
+[_Castellano_](/activitats/2026/11/18/Elecciones-Comite-PDI.html)
+[_English_](/activitats/2026/11/18/Elections-PDI.html)

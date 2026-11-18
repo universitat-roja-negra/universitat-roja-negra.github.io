@@ -31,10 +31,12 @@ salarials a la lluita pel dret a l'habitatge digne i defensem un feminisme de cl
 
 <span style="color: #8B0000;">***Vota la candidatura de la CGT!***</span>
 
+<a href="/assets/doc/PROGRAMA.CAS.pdf">PROGRAMA</a>
+
 Salut\!
 
 CGT/UPC. Per una Universitat Roja/Negra.!
 
-[_Català_](https://universitat-roja-negra.github.io/portada/2026/11/18/Eleccions-Comite-PDI.html)
-[_Castellano_](https://universitat-roja-negra.github.io/activitats/2026/11/18/Elecciones-Comite-PDI.html)
-[_English_](https://universitat-roja-negra.github.io/activitats/2026/11/18/Elections-PDI.html)
+[_Català_](/portada/2026/11/18/Eleccions-Comite-PDI.html)
+[_Castellano_](/activitats/2026/11/18/Elecciones-Comite-PDI.html)
+[_English_](/activitats/2026/11/18/Elections-PDI.html)
