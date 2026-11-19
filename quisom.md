@@ -4,36 +4,31 @@ title: Qui som
 permalink: /qui-som/
 ---
 
-1.  Linus Maria Manubens Gil
-2.  Clément Requilé
-3.  Ariadna Giné Blasco
-4.  Antonio Reboredo Raposo
-5.  Guillermo Recuero Hinojosa
-6.  Anna Guseva
-7.  Richard Johannes Lang
-8.  Mireia Segado Centellas
-9.  Ileyk El Mellah
-10. Mercè García Vílchez
-11. Antoni Ignaci Llull Marroig
-12. Alba Cañete Garrucho
-13. Carlos Martínez Otaduy
-14. Pol González Pacheco
-15. César Saldaña Puerto
-16. Bartomeu Martorell Argemí
-17. Andreu Ribes i Villanueva
-18. Marc Maynou Yelamos
-19. Irene López Peña
-20. Domingo Manubens Gil
-21. Ravi Raj
-22. Pau Clusella Coberó
-23. Lluís Hernández Navarro
-24. Maria Rosa Giralt Mas
-25. Oscar Van Der Velde
-26. Nuria Escudero Benito
-27. Eric Roy Almonacid
-28. Albert Marquillas Estruch
-29. Marta Isabel Tarrés Puertas
-30. David Ribas Fargas
-31. Teresa Valor Ivars
-32. Barbara de Marco
+Membres de la secció sindical:
+
+
+PDI Laboral:
+
+<span style="color: #8B0000;">★ Anna Guseva</span><br />
+<span style="color: #8B0000;">★ Antoni Ignaci Llull</span><br />
+<span style="color: #8B0000;">★ Antonio Reboredo</span> - [ Delegat LOLS ]<br />
+<span style="color: #8B0000;">★ Ariadna Giné</span><br />
+<span style="color: #8B0000;">★ Clément Requilé</span><br />
+<span style="color: #8B0000;">★ Guillermo Recuero</span><br />
+<span style="color: #8B0000;">★ Ileyk El Mellah</span><br />
+<span style="color: #8B0000;">★ Linus Manubens-Gil</span><br />
+<span style="color: #8B0000;">★ Mercè García</span><br />
+<span style="color: #8B0000;">★ Mireia Segado</span><br />
+<span style="color: #8B0000;">★ Pau Clusella</span><br />
+<span style="color: #8B0000;">★ Richard Johannes Lang</span>
+
+PTGAS Laboral:
+
+<span style="color: #8B0000;">★ Àngel Aguilera</span><br />
+<span style="color: #8B0000;">★ José Enrique Gómez</span> - [ Delegat de prevenció ]<br />
+<span style="color: #8B0000;">★ Francisco Morillas</span> - [ Secretari ]
+
+PTGAS Funcionari:
+
+<span style="color: #8B0000;">★ David Gener</span>
 
