@@ -24,8 +24,7 @@ càrrega docent per a les lectores; la rebaixa de càrrega per a les agregades, 
 
 ![Bretxa salarial](/assets/img/Bretxa.png)
 
-<span style="color: #8B0000;">**Rebentem la bombolla universitària:**</span> exigim el trencament de tot acord de la UPC amb l'Estat d'Israel contra el genocidi a Palestina, vinculem les nostres reivindicacions
-salarials a la lluita pel dret a l'habitatge digne i defensem un feminisme de classe contra l'assetjament i els abusos de poder.
+<span style="color: #8B0000;">**Rebentem la bombolla universitària:**</span> exigim el trencament de tota relació de la UPC amb el genocidi a Palestina, les institucions i empreses relacionades amb el genocidi i el apartheid, i amb l'Estat d'Israel, vinculem les nostres reivindicacions salarials a la lluita pel dret a l'habitatge digne i defensem un feminisme de classe contra l'assetjament i els abusos de poder.
 
 <span style="color: #8B0000;">***No ens presentem per gestionar la nostra misèria, sinó per organitzar-nos i lluitar!***</span>
 
@@ -33,10 +32,45 @@ salarials a la lluita pel dret a l'habitatge digne i defensem un feminisme de cl
 
 <a href="/assets/docs/PROGRAMA.CAT.pdf">PROGRAMA</a>
 
-Salut\!
+Salut!
 
-CGT/UPC. Per una Universitat Roja/Negra.!
+CGT-UPC. Per una Universitat per a la classe treballadora!
 
 [_Català_](/portada/2026/11/18/Eleccions-Comite-PDI.html)
-[_Castellano_](/activitats/2026/11/18/Elecciones-Comite-PDI.html)
-[_English_](/activitats/2026/11/18/Elections-PDI.html)
+[_Castellano_](/activitats/2026/11/19/Elecciones-Comite-PDI.html)
+[_English_](/activitats/2026/11/19/Elections-PDI.html)
+
+<span style="color: #8B0000;">***Llista de la CGT al Comitè d'Empresa del PDI Laboral***</span>
+
+1.  Linus Maria Manubens Gil
+2.  Clément Requilé
+3.  Ariadna Giné Blasco
+4.  Antonio Reboredo Raposo
+5.  Guillermo Recuero Hinojosa
+6.  Anna Guseva
+7.  Richard Johannes Lang
+8.  Mireia Segado Centellas
+9.  Ileyk El Mellah
+10. Mercè García Vílchez
+11. Antoni Ignaci Llull Marroig
+12. Alba Cañete Garrucho
+13. Carlos Martínez Otaduy
+14. Pol González Pacheco
+15. César Saldaña Puerto
+16. Bartomeu Martorell Argemí
+17. Andreu Ribes i Villanueva
+18. Marc Maynou Yelamos
+19. Irene López Peña
+20. Domingo Manubens Gil
+21. Ravi Raj
+22. Pau Clusella Coberó
+23. Lluís Hernández Navarro
+24. Maria Rosa Giralt Mas
+25. Oscar Van Der Velde
+26. Nuria Escudero Benito
+27. Eric Roy Almonacid
+28. Albert Marquillas Estruch
+29. Marta Isabel Tarrés Puertas
+30. David Ribas Fargas
+31. Teresa Valor Ivars
+32. Barbara de Marco
