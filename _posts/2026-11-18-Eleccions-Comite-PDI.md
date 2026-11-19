@@ -30,11 +30,13 @@ càrrega docent per a les lectores; la rebaixa de càrrega per a les agregades, 
 
 <span style="color: #8B0000;">***Vota la candidatura de la CGT!***</span>
 
-<a href="/assets/docs/PROGRAMA.CAT.pdf">PROGRAMA</a>
+<a href="/assets/docs/PROGRAMA.CAT.pdf">Programa 📕</a> [_Programa_](/activitats/2026/11/19/Programa-Cat.html)
+↗️
 
 Salut!
 
 CGT-UPC. Per una Universitat per a la classe treballadora!
+
 
 [_Català_](/portada/2026/11/18/Eleccions-Comite-PDI.html)
 [_Castellano_](/activitats/2026/11/19/Elecciones-Comite-PDI.html)

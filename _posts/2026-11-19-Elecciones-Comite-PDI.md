@@ -30,7 +30,7 @@ vinculamos nuestras reivindicaciones salariales (basta de incrementos que no alc
 
 <span style="color: #8B0000;">***Vota la candidatura de la CGT!***</span>
 
-<a href="/assets/docs/PROGRAMA.CAS.pdf">PROGRAMA</a>
+<a href="/assets/docs/PROGRAMA.CAS.pdf">Programa 📕</a>
 
 Salut!
 

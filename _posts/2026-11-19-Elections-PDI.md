@@ -30,7 +30,7 @@ Please find attached our <span style="color: #8B0000;">**programa electoral**</s
 
 <span style="color: #8B0000;">***Vote for the CGT candidacy!***</span>
 
-<a href="/assets/docs/PROGRAMA.EN.pdf">PROGRAM</a>
+<a href="/assets/docs/PROGRAMA.EN.pdf">Program 📕</a>
 
 Salut!
 
