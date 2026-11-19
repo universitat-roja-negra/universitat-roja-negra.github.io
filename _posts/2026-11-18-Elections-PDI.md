@@ -20,7 +20,7 @@ Please find attached our <span style="color: #8B0000;">**programa electoral**</s
 
 <span style="color: #8B0000;">★</span> <span style="color: #8B0000;">**No more precariousness for all PDI:**</span> immediate regularisation of structural associate professors and maximum wage parity; dignified conditions for substitute teachers (no more cheap labor); full implementation of the EPIF statute for predocs (guaranteed 4th year and teaching limits); and stabilization without punitive evaluations for assistant professors (lectoras).
 
-<span style="color: #8B0000;">★</span> <span style="color: #8B0000;">**Decent living conditions:**</span> Faced with a 20% loss in purchasing power since 2010 and the runaway surge in rents, we are linking our wage demands—rejecting pay increases that fall short of the actual CPI—to the struggle for the right to decent housing. The agreement reached between the government and certain trade unions (an 11% raise spread over five years) is already completely inadequate, even before its full implementation.
+<span style="color: #8B0000;">★</span> <span style="color: #8B0000;">**Decent living conditions:**</span> Faced with a 20% loss in purchasing power since 2010 and the runaway surge in rents, we are linking our wage demands—rejecting pay increases that fall short of the actual CPI—to the struggle for the right to decent housing. The agreement reached between the government and certain trade unions (an 11% raise spread over 4 years) is already completely inadequate, even before its full implementation.
 
 ![Bretxa salarial](/assets/img/Bretxa.png)
 

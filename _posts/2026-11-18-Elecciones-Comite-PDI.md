@@ -20,7 +20,7 @@ Os adjuntamos nuestro <span style="color: #8B0000;">**programa electoral**</span
 <span style="color: #8B0000;">★</span> <span style="color: #8B0000;">**¡Basta ya de precariedad para todo el PDI!:**</span> exigimos la regularización inmediata de las asociadas estructurales y equiparación salarial máxima; condiciones dignas para las sustitutas (basta de mano de obra barata); aplicación íntegra del EPIF para las predocs (4.º año garantizado y límites docentes); y estabilización sin evaluaciones punitivas para las lectoras.
 
 <span style="color: #8B0000;">★</span> <span style="color: #8B0000;">**Condiciones de vida dignas:**</span> ante una pérdida del 20% de poder adquisitivo desde el 2010 y la escalada desbocada del alquiler,
-vinculamos nuestras reivindicaciones salariales (basta de incrementos que no alcancen el IPC real) a la lucha para el derecho a la vivienda digna. El pacto entre gobierno y algunos sindicatos (11% de subida repartida en 5 años) ya es absolutamente insuficiente antes de acabar de ser implantada.
+vinculamos nuestras reivindicaciones salariales (basta de incrementos que no alcancen el IPC real) a la lucha para el derecho a la vivienda digna. El pacto entre gobierno y algunos sindicatos (11% de subida repartida en 4 años) ya es absolutamente insuficiente antes de acabar de ser implantada.
 
 ![Bretxa salarial](/assets/img/Bretxa.png)
 
