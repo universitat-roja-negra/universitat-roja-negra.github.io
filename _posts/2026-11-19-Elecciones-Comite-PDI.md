@@ -11,6 +11,12 @@ categories: activitats
 
 *Compañeras!*
 
+No dejes que otros decidan por ti desde los despachos. Para acabar con el fraude y la precariedad de asociadas, sustitutas, predocs y lectoras, por una universidad pública, feminista y solidaria con Palestina, y por un sindicalismo asambleario y sin concesiones: <span style="color: #8B0000;">**¡luchemos por una universidad al servicio de las trabajadoras!**<span style="color: #8B0000;">
+
+<span style="color: #8B0000;">**Desde el miércoles 25 de noviembre a las 10:00 h hasta el viernes 27 de noviembre a las 09:00 h vota la candidatura de la CGT!**<span style="color: #8B0000;">
+
+<a href="/assets/docs/Programa.cas.pdf">Programa 📕</a>
+
 Desde la <span style="color: #8B0000;">**sección sindical de la CGT en la UPC**</span> nos presentamos a las <span style="color: #8B0000;">**elecciones al Comité de Empresa del PDI Laboral**</span> para transformar las reglas del juego desde abajo, lejos del sindicalismo pactista y burocrático.
 
 Os adjuntamos nuestro <span style="color: #8B0000;">**programa electoral**</span>, que se resume en tres ejes clave:
@@ -29,8 +35,6 @@ vinculamos nuestras reivindicaciones salariales (basta de incrementos que no alc
 <span style="color: #8B0000;">***No ens presentem per gestionar la nostra misèria, sinó per organitzar-nos i lluitar!***</span>
 
 <span style="color: #8B0000;">***Vota la candidatura de la CGT!***</span>
-
-<a href="/assets/docs/PROGRAMA.CAS.pdf">Programa 📕</a>
 
 Salut!
 

@@ -11,6 +11,12 @@ categories: portada
 
 *Companyes!*
 
+No deixis que altres decideixin per tu des dels despatxos. Per acabar amb el frau i la precarietat d'associades, substitutes, predocs i lectores, per una universitat pública, feminista i solidària amb Palestina, i per un sindicalisme assembleari i sense concessions: <span style="color: #8B0000;">**lluitem per una universitat al servei de les treballadores!**<span style="color: #8B0000;">
+
+<span style="color: #8B0000;">**Des del dimecres 25 de novembre a les 10:00 h fins al divendres 27 de novembre a les 09:00 h vota la candidatura de la CGT!**<span style="color: #8B0000;">
+
+<a href="/assets/docs/Programa.cat.pdf">Programa 📕</a> [_Programa_](/activitats/2026/11/19/Programa-Cat.html) ↗️
+
 Des de la <span style="color: #8B0000;">**secció sindical de la CGT a la UPC**</span> ens presentem a les <span style="color: #8B0000;">**eleccions al Comitè d'Empresa del PDI Laboral**</span> per transformar les regles del joc des de baix, lluny del sindicalisme pactista i burocràtic.
 
 Us adjuntem el nostre <span style="color: #8B0000;">**programa electoral**</span>, que es resumeix en tres eixos clau:
@@ -30,8 +36,6 @@ càrrega docent per a les lectores; la rebaixa de càrrega per a les agregades, 
 
 <span style="color: #8B0000;">***Vota la candidatura de la CGT!***</span>
 
-<a href="/assets/docs/PROGRAMA.CAT.pdf">Programa 📕</a> [_Programa_](/activitats/2026/11/19/Programa-Cat.html)
-↗️
 
 Salut!
 

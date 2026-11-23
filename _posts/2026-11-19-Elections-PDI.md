@@ -11,6 +11,12 @@ categories: activitats
 
 *Colleagues!*
 
+Don't let others decide for you behind closed doors. To end fraud and precarity for associate, substitute, predoc, and assistant faculty, for a public, feminist university in solidarity with Palestine, and for uncompromising, assembly-based unionism: <span style="color: #8B0000;">**let's fight for a university at the service of working people!**<span style="color: #8B0000;">
+
+<span style="color: #8B0000;">**From Wednesday, November 25 at 10:00 AM until Friday, November 27 at 09:00 AM vote for the CGT candidacy!**<span style="color: #8B0000;">
+
+<a href="/assets/docs/Programa.en.pdf">Program 📕</a>
+
 The <span style="color: #8B0000;">**CGT union branch at UPC**</span> ens
 is running in the <span style="color: #8B0000;">**Labor PDI Works Council elections**</span> to transform the rules of the game from the bottom up, far from bureaucratic and compromise-oriented unionism.
 
@@ -29,8 +35,6 @@ Please find attached our <span style="color: #8B0000;">**programa electoral**</s
 <span style="color: #8B0000;">***NWe are not here to manage our misery, but to organize and fight!***</span>
 
 <span style="color: #8B0000;">***Vote for the CGT candidacy!***</span>
-
-<a href="/assets/docs/PROGRAMA.EN.pdf">Program 📕</a>
 
 Salut!
 

@@ -116,38 +116,39 @@ aquelles figures més precàries del <span style="color: #8B0000;">**PDI laboral
 
 <span style="color: #8B0000;">★ **Professores associades:**</span>
 
-<span style="color: #8B0000;">&#10168; **Regularització immediata**</span> de les situacions de frau de llei mitjançant places estables a temps complet (aplicant la Disposició Transitòria de la LOSU).
+&emsp;<span style="color: #8B0000;">&#10168; **Regularització immediata**</span> de les situacions de frau de llei mitjançant places estables a temps complet (aplicant la Disposició Transitòria de la LOSU).
 
-<span style="color: #8B0000;">&#10168; **Equiparació salarial màxima (categoria A4)**</span> i reconeixement dels quinquennis docents.
+&emsp;<span style="color: #8B0000;">&#10168; **Equiparació salarial màxima (categoria A4)**</span> i reconeixement dels quinquennis docents.
 
-<span style="color: #8B0000;">&#10168; **Fi del comiat objectiu**</span> per pèrdua de la feina externa i de l'ús fraudulent per cobrir substitucions.
+&emsp;<span style="color: #8B0000;">&#10168; **Fi del comiat objectiu**</span> per pèrdua de la feina externa i de l'ús fraudulent per cobrir substitucions.
 
 <span style="color: #8B0000;">★ **Professores substitutes:**</span>
 
-<span style="color: #8B0000;">&#10168; **Dignificació contractual i salarial:**</span> prou de mà d'obra
+&emsp;<span style="color: #8B0000;">&#10168; **Dignificació contractual i salarial:**</span> prou de mà d'obra
 barata amb salaris reduïts i contractes fragmentats.
 
-<span style="color: #8B0000;">&#10168; **Cobertura de tota la durada del curs**</span> (incloent-hi
+&emsp;<span style="color: #8B0000;">&#10168; **Cobertura de tota la durada del curs**</span> (incloent-hi
 reavaluacions i tancament d'actes) i barems transparents a les borses.
 
 <span style="color: #8B0000;">★ **Personal Investigador en Formació (Predocs):**</span>
 
-<span style="color: #8B0000;">&#10168; **Aplicació íntegra de l'Estatut (EPIF)**</span>, incloent-hi el dret
+&emsp;<span style="color: #8B0000;">&#10168; **Aplicació íntegra de l'Estatut (EPIF)**</span>, incloent-hi el dret
 a la renovació del quart any contractual.
 
-<span style="color: #8B0000;">&#10168; **Limitació estricta de la càrrega docent,**</span> de la docència
+&emsp;<span style="color: #8B0000;">&#10168; **Limitació estricta de la càrrega docent,**</span> de la docència
 estructural i el fi de totes aquelles tasques no reconegudes
 ni remunerades.
 
 <span style="color: #8B0000;">★ **Professores Lectores:**</span>
 
-<span style="color: #8B0000;">&#10168; **Garanties reals de continuïtat i estabilització**</span> sense
+&emsp;<span style="color: #8B0000;">&#10168; **Garanties reals de continuïtat i estabilització**</span> sense
 processos avaluadors de caràcter punitiu.
 
-<span style="color: #8B0000;">&#10168; **Reducció de la càrrega docent a 18 crèdits**</span>, dret a sexennis i còmput de l'antiguitat prèvia en places prèvies, com les
+&emsp;<span style="color: #8B0000;">&#10168; **Reducció de la càrrega docent a 12 crèdits**</span>,
+ reconeixements de  quinquennis i sexennis i còmput de l'antiguitat prèvia en places prèvies, com les
 d'associada o substituta.
 
-#### <span style="color: #8B0000;">_Fem explotar la bombolla de la universitat! Solidaritzem-nos amb altres lluites laborals per crear un front sindical de classe i antifascista_</span>
+#### <span style="color: #8B0000;">_Fem explotar la bombolla de la universitat! Solidaritzem-nos amb altres lluites laborals per crear un front sindical de classe i antifeixista_</span>
 
 La precarietat laboral dins de les aules és així mateix inseparable de
 les opressions i dels diversos conflictes que travessen la nostra
@@ -188,12 +189,12 @@ per la recuperació del poder adquisitiu.
 
 <span style="color: #8B0000;">★ **Per un feminisme de classe i combatiu:**</span>
 
-<span style="color: #8B0000;">&#10168; **Exigim una tolerància zero davant l'assetjament**</span> sexual i
+&emsp;<span style="color: #8B0000;">&#10168; **Exigim una tolerància zero davant l'assetjament**</span> sexual i
 per raó de gènere, amb protocols efectius i garantistes.
 
-<span style="color: #8B0000;">&#10168; **Exigim corresponsabilitat i unes mesures reals de conciliació**</span>, adaptant els criteris d'avaluació acadèmica als temps de criança i cures.
+&emsp;<span style="color: #8B0000;">&#10168; **Exigim corresponsabilitat i unes mesures reals de conciliació**</span>, adaptant els criteris d'avaluació acadèmica als temps de criança i cures.
 
-<span style="color: #8B0000;">&#10168; **Exigim l'erradicació de tota bretxa salarial**</span> i la defensa
+&emsp;<span style="color: #8B0000;">&#10168; **Exigim l'erradicació de tota bretxa salarial**</span> i la defensa
 activa dels drets de les persones LGTBIAQ+ i racialitzades en la nostra comunitat universitària.
 
 <span style="color: #8B0000;">***Lluitem per una universitat pública al servei de les treballadores!***</span>
